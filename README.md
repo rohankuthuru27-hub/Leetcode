@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/rohankuthuru27-hub/Leetcode/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/rohankuthuru27-hub/Leetcode/tree/master/0062-unique-paths) |
 ## Matrix
 |  |
 | ------- |
@@ -57,4 +58,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/rohankuthuru27-hub/Leetcode/tree/master/0287-find-the-duplicate-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/rohankuthuru27-hub/Leetcode/tree/master/0062-unique-paths) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/rohankuthuru27-hub/Leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
