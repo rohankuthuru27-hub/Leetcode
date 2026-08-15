@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/rohankuthuru27-hub/Leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/rohankuthuru27-hub/Leetcode/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/rohankuthuru27-hub/Leetcode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/rohankuthuru27-hub/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
@@ -66,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/rohankuthuru27-hub/Leetcode/tree/master/0062-unique-paths) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/rohankuthuru27-hub/Leetcode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
