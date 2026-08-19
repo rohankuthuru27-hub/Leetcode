@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/rohankuthuru27-hub/Leetcode/tree/master/0048-rotate-image) |
 | [0056-merge-intervals](https://github.com/rohankuthuru27-hub/Leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/rohankuthuru27-hub/Leetcode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/rohankuthuru27-hub/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/rohankuthuru27-hub/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0238-product-of-array-except-self](https://github.com/rohankuthuru27-hub/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/rohankuthuru27-hub/Leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/rohankuthuru27-hub/Leetcode/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/rohankuthuru27-hub/Leetcode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/rohankuthuru27-hub/Leetcode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/rohankuthuru27-hub/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/rohankuthuru27-hub/Leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Greedy
 |  |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/rohankuthuru27-hub/Leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/rohankuthuru27-hub/Leetcode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/rohankuthuru27-hub/Leetcode/tree/master/0088-merge-sorted-array) |
 ## Quicksort
 |  |
 | ------- |
