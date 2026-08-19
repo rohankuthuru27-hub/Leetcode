@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/rohankuthuru27-hub/Leetcode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/rohankuthuru27-hub/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/rohankuthuru27-hub/Leetcode/tree/master/0048-rotate-image) |
+| [0056-merge-intervals](https://github.com/rohankuthuru27-hub/Leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/rohankuthuru27-hub/Leetcode/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/rohankuthuru27-hub/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0238-product-of-array-except-self](https://github.com/rohankuthuru27-hub/Leetcode/tree/master/0238-product-of-array-except-self) |
@@ -91,10 +92,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/rohankuthuru27-hub/Leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/rohankuthuru27-hub/Leetcode/tree/master/0075-sort-colors) |
 ## Quicksort
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/rohankuthuru27-hub/Leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/rohankuthuru27-hub/Leetcode/tree/master/0075-sort-colors) |
 ## Bubble Sort
 |  |
